@@ -1,0 +1,50 @@
+{
+  "first_win": {
+    "name": "First Victory",
+    "description": "Win your first game",
+    "unlocked": false,
+    "unlock_date": null,
+    "progress": 0,
+    "target": 1
+  },
+  "speed_runner": {
+    "name": "Speed Runner",
+    "description": "Complete a level in under 2 minutes",
+    "unlocked": false,
+    "unlock_date": null,
+    "progress": 0,
+    "target": 1
+  },
+  "perfect_game": {
+    "name": "Perfect Game",
+    "description": "Win a game without using undo",
+    "unlocked": false,
+    "unlock_date": null,
+    "progress": 0,
+    "target": 1
+  },
+  "high_scorer": {
+    "name": "High Scorer",
+    "description": "Score over 10,000 points in a single game",
+    "unlocked": false,
+    "unlock_date": null,
+    "progress": 0,
+    "target": 10000
+  },
+  "explorer": {
+    "name": "Explorer",
+    "description": "Complete 10 different levels",
+    "unlocked": false,
+    "unlock_date": null,
+    "progress": 0,
+    "target": 10
+  },
+  "master": {
+    "name": "1024 Master",
+    "description": "Complete all 20 levels",
+    "unlocked": false,
+    "unlock_date": null,
+    "progress": 0,
+    "target": 20
+  }
+}

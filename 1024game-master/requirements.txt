@@ -1,0 +1,13 @@
+# 1024 Game Requirements
+# Python 3.8+ required
+
+# Core dependencies (built-in with Python)
+# No external dependencies required for basic functionality
+
+# Optional dependencies for enhanced features
+colorama>=0.4.6  # For colored terminal output (optional)
+
+# Development dependencies
+# pytest>=7.0.0      # For testing (if implementing tests)
+# black>=22.0.0      # For code formatting (development only)
+# flake8>=4.0.0      # For linting (development only)
