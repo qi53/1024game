@@ -1,0 +1,17 @@
+{
+  "games_played": 0,
+  "total_score": 0,
+  "high_score": 0,
+  "total_moves": 0,
+  "total_time": 0,
+  "levels_completed": 0,
+  "achievements_unlocked": 0,
+  "perfect_games": 0,
+  "wins": 0,
+  "losses": 0,
+  "current_streak": 0,
+  "best_streak": 0,
+  "total_playtime": 0,
+  "last_played": null,
+  "first_played": null
+}

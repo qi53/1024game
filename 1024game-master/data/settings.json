@@ -1,0 +1,16 @@
+{
+  "volume": 0.7,
+  "sfx_volume": 0.8,
+  "music_volume": 0.5,
+  "sfx_enabled": true,
+  "music_enabled": true,
+  "current_theme": "default",
+  "language": "en",
+  "fullscreen": false,
+  "show_fps": false,
+  "show_grid": true,
+  "animation_speed": 1.0,
+  "particle_effects": true,
+  "auto_save": true,
+  "tutorial_completed": false
+}

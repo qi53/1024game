@@ -1,0 +1,390 @@
+{
+  "current_level": 10,
+  "unlocked_levels": [
+    1,
+    2,
+    11
+  ],
+  "level_data": {
+    "1": {
+      "level": 1,
+      "difficulty": 1,
+      "name": "Getting Started",
+      "description": "Learn the basics of 1024. Reach 512 to win!",
+      "settings": {
+        "win_value": 512,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.1,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": true,
+      "completed": true,
+      "best_score": 1000,
+      "stars": 2,
+      "first_time": false
+    },
+    "2": {
+      "level": 2,
+      "difficulty": 1,
+      "name": "Easy Level 2",
+      "description": "Getting warmer. Can you reach 512?",
+      "settings": {
+        "win_value": 512,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.1,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": true,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "3": {
+      "level": 3,
+      "difficulty": 1,
+      "name": "Easy Level 3",
+      "description": "The challenge increases. Keep going!",
+      "settings": {
+        "win_value": 512,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.1,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "4": {
+      "level": 4,
+      "difficulty": 1,
+      "name": "Easy Level 4",
+      "description": "Almost there with the easy levels.",
+      "settings": {
+        "win_value": 512,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.1,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "5": {
+      "level": 5,
+      "difficulty": 1,
+      "name": "Easy Complete",
+      "description": "Final easy level. Prove your skills!",
+      "settings": {
+        "win_value": 512,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.1,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "6": {
+      "level": 6,
+      "difficulty": 2,
+      "name": "Medium Level 6",
+      "description": "Welcome to medium difficulty. Now you need to reach 1024!",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.15,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "7": {
+      "level": 7,
+      "difficulty": 2,
+      "name": "Medium Level 7",
+      "description": "The tiles are appearing more frequently now.",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.15,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "8": {
+      "level": 8,
+      "difficulty": 2,
+      "name": "Medium Level 8",
+      "description": "Strategy becomes more important.",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.15,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "9": {
+      "level": 9,
+      "difficulty": 2,
+      "name": "Medium Level 9",
+      "description": "Can you handle the pressure?",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.15,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "10": {
+      "level": 10,
+      "difficulty": 2,
+      "name": "Medium Master",
+      "description": "Master of medium levels. Almost to hard!",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.15,
+        "time_limit": null,
+        "move_limit": null
+      },
+      "unlocked": false,
+      "completed": true,
+      "best_score": 2000,
+      "stars": 2,
+      "first_time": false
+    },
+    "11": {
+      "level": 11,
+      "difficulty": 3,
+      "name": "Hard Level 11",
+      "description": "Hard mode begins. Time and move limits apply!",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.2,
+        "time_limit": 300,
+        "move_limit": 200
+      },
+      "unlocked": true,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "12": {
+      "level": 12,
+      "difficulty": 3,
+      "name": "Hard Level 12",
+      "description": "5 minutes to reach 1024. Can you do it?",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.2,
+        "time_limit": 300,
+        "move_limit": 200
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "13": {
+      "level": 13,
+      "difficulty": 3,
+      "name": "Hard Level 13",
+      "description": "The clock is ticking. 200 moves max.",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.2,
+        "time_limit": 300,
+        "move_limit": 200
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "14": {
+      "level": 14,
+      "difficulty": 3,
+      "name": "Hard Level 14",
+      "description": "Precision and speed are key.",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.2,
+        "time_limit": 300,
+        "move_limit": 200
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "15": {
+      "level": 15,
+      "difficulty": 3,
+      "name": "Hard Hero",
+      "description": "Final hard level. Are you ready for expert?",
+      "settings": {
+        "win_value": 1024,
+        "grid_size": 4,
+        "initial_tiles": 2,
+        "spawn_4_chance": 0.2,
+        "time_limit": 300,
+        "move_limit": 200
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "16": {
+      "level": 16,
+      "difficulty": 4,
+      "name": "Expert Level 16",
+      "description": "Expert mode! 5x5 grid and 2048 target!",
+      "settings": {
+        "win_value": 2048,
+        "grid_size": 5,
+        "initial_tiles": 3,
+        "spawn_4_chance": 0.25,
+        "time_limit": 240,
+        "move_limit": 150
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "17": {
+      "level": 17,
+      "difficulty": 4,
+      "name": "Expert Level 17",
+      "description": "The ultimate challenge begins.",
+      "settings": {
+        "win_value": 2048,
+        "grid_size": 5,
+        "initial_tiles": 3,
+        "spawn_4_chance": 0.25,
+        "time_limit": 240,
+        "move_limit": 150
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "18": {
+      "level": 18,
+      "difficulty": 4,
+      "name": "Expert Level 18",
+      "description": "4 minutes to prove your mastery.",
+      "settings": {
+        "win_value": 2048,
+        "grid_size": 5,
+        "initial_tiles": 3,
+        "spawn_4_chance": 0.25,
+        "time_limit": 240,
+        "move_limit": 150
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "19": {
+      "level": 19,
+      "difficulty": 4,
+      "name": "Expert Level 19",
+      "description": "Only the best will reach this far.",
+      "settings": {
+        "win_value": 2048,
+        "grid_size": 5,
+        "initial_tiles": 3,
+        "spawn_4_chance": 0.25,
+        "time_limit": 240,
+        "move_limit": 150
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    },
+    "20": {
+      "level": 20,
+      "difficulty": 4,
+      "name": "Expert Elite",
+      "description": "The final challenge. Can you become the 1024 champion?",
+      "settings": {
+        "win_value": 2048,
+        "grid_size": 5,
+        "initial_tiles": 3,
+        "spawn_4_chance": 0.25,
+        "time_limit": 240,
+        "move_limit": 150
+      },
+      "unlocked": false,
+      "completed": false,
+      "best_score": 0,
+      "stars": 0,
+      "first_time": true
+    }
+  }
+}
