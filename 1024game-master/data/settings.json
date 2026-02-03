@@ -1,0 +1,42 @@
+{
+  "fullscreen": false,
+  "screen_width": 1280,
+  "screen_height": 720,
+  "vsync": true,
+  "master_volume": 1,
+  "sfx_volume": 0.7,
+  "music_volume": 0.5,
+  "mute": false,
+  "dark_theme": true,
+  "show_particles": true,
+  "show_animations": true,
+  "auto_save": true,
+  "key_bindings": {
+    "up": [
+      "w",
+      "up"
+    ],
+    "down": [
+      "s",
+      "down"
+    ],
+    "left": [
+      "a",
+      "left"
+    ],
+    "right": [
+      "d",
+      "right"
+    ],
+    "undo": [
+      "ctrl+z"
+    ],
+    "pause": [
+      "p",
+      "esc"
+    ],
+    "restart": [
+      "r"
+    ]
+  }
+}

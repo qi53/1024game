@@ -1,0 +1,75 @@
+{
+  "total_games_played": 5,
+  "total_wins": 4,
+  "total_losses": 1,
+  "total_play_time": 0,
+  "highest_score": 1024,
+  "total_score_accumulated": 3328,
+  "average_score": 665.6,
+  "total_moves": 0,
+  "total_merges": 0,
+  "max_combo": 0,
+  "max_tile_ever": 128,
+  "tiles_merged": {},
+  "level_completions": {
+    "1": {
+      "count": 3,
+      "best_score": 512
+    },
+    "2": {
+      "count": 1,
+      "best_score": 1024
+    }
+  },
+  "fastest_level_clear": {
+    "1": 11.01450490951538,
+    "2": 14.701777219772339
+  },
+  "recent_games": [
+    {
+      "level": 1,
+      "won": true,
+      "score": 512,
+      "moves": 68,
+      "time": 11.667342901229858,
+      "max_tile": 64,
+      "timestamp": 1770110233.679714
+    },
+    {
+      "level": 2,
+      "won": false,
+      "score": 768,
+      "moves": 99,
+      "time": 59.03103303909302,
+      "max_tile": 64,
+      "timestamp": 1770102238.3161228
+    },
+    {
+      "level": 1,
+      "won": true,
+      "score": 512,
+      "moves": 62,
+      "time": 100.72819209098816,
+      "max_tile": 64,
+      "timestamp": 1770102168.1384552
+    },
+    {
+      "level": 2,
+      "won": true,
+      "score": 1024,
+      "moves": 106,
+      "time": 14.701777219772339,
+      "max_tile": 128,
+      "timestamp": 1770098436.9514072
+    },
+    {
+      "level": 1,
+      "won": true,
+      "score": 512,
+      "moves": 68,
+      "time": 11.01450490951538,
+      "max_tile": 64,
+      "timestamp": 1770098399.136661
+    }
+  ]
+}
