@@ -1,0 +1,21 @@
+{
+  "unlocked_levels": [
+    1,
+    2,
+    3
+  ],
+  "completed_levels": [
+    1,
+    2
+  ],
+  "level_scores": {
+    "1": 156,
+    "2": 316
+  },
+  "level_times": {
+    "1": 0,
+    "2": 0
+  },
+  "total_score": 732,
+  "last_played_level": 1
+}
