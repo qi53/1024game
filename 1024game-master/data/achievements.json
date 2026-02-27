@@ -1,0 +1,62 @@
+{
+  "first_win": {
+    "unlocked": true,
+    "unlocked_at": "2026-02-27T17:50:36.319487",
+    "progress": 1,
+    "target": 1
+  },
+  "level_5_master": {
+    "unlocked": false,
+    "unlocked_at": null,
+    "progress": 0,
+    "target": 1
+  },
+  "level_10_master": {
+    "unlocked": false,
+    "unlocked_at": null,
+    "progress": 0,
+    "target": 1
+  },
+  "level_15_master": {
+    "unlocked": false,
+    "unlocked_at": null,
+    "progress": 0,
+    "target": 1
+  },
+  "grand_master": {
+    "unlocked": false,
+    "unlocked_at": null,
+    "progress": 0,
+    "target": 1
+  },
+  "speed_demon": {
+    "unlocked": true,
+    "unlocked_at": "2026-02-27T17:50:36.320156",
+    "progress": 1,
+    "target": 1
+  },
+  "perfectionist": {
+    "unlocked": true,
+    "unlocked_at": "2026-02-27T17:50:36.320272",
+    "progress": 1,
+    "target": 1
+  },
+  "combo_master": {
+    "unlocked": false,
+    "unlocked_at": null,
+    "progress": 0,
+    "target": 5
+  },
+  "millionaire": {
+    "unlocked": false,
+    "unlocked_at": null,
+    "progress": 0,
+    "target": 1
+  },
+  "persistent": {
+    "unlocked": false,
+    "unlocked_at": null,
+    "progress": 1,
+    "target": 50
+  }
+}
