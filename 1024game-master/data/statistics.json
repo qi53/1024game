@@ -1,0 +1,12 @@
+{
+  "total_games_played": 3,
+  "total_time_played": 46.32,
+  "highest_score": 856,
+  "total_moves": 250,
+  "total_merges": 9,
+  "biggest_tile": 0,
+  "levels_completed": 0,
+  "perfect_games": 0,
+  "fastest_win_time": Infinity,
+  "longest_game_time": 0.0
+}
