@@ -1,0 +1,182 @@
+{
+  "1": {
+    "level_id": 1,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 7,
+    "stars": 0,
+    "completed_at": null
+  },
+  "2": {
+    "level_id": 2,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "3": {
+    "level_id": 3,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "4": {
+    "level_id": 4,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "5": {
+    "level_id": 5,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "6": {
+    "level_id": 6,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "7": {
+    "level_id": 7,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "8": {
+    "level_id": 8,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "9": {
+    "level_id": 9,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "10": {
+    "level_id": 10,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "11": {
+    "level_id": 11,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "12": {
+    "level_id": 12,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "13": {
+    "level_id": 13,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "14": {
+    "level_id": 14,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "15": {
+    "level_id": 15,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "16": {
+    "level_id": 16,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "17": {
+    "level_id": 17,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "18": {
+    "level_id": 18,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "19": {
+    "level_id": 19,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  },
+  "20": {
+    "level_id": 20,
+    "completed": false,
+    "best_score": 0,
+    "best_time": 0.0,
+    "attempts": 0,
+    "stars": 0,
+    "completed_at": null
+  }
+}

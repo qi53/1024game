@@ -1,0 +1,178 @@
+{
+  "first_win": {
+    "id": "first_win",
+    "name": "初次胜利",
+    "description": "完成任意关卡",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "🎉",
+    "rarity": "common",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "score_1000": {
+    "id": "score_1000",
+    "name": "千分俱乐部",
+    "description": "单局得分达到1000",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "🥉",
+    "rarity": "common",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "score_5000": {
+    "id": "score_5000",
+    "name": "五千分俱乐部",
+    "description": "单局得分达到5000",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "🥈",
+    "rarity": "uncommon",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "score_10000": {
+    "id": "score_10000",
+    "name": "万分俱乐部",
+    "description": "单局得分达到10000",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "🥇",
+    "rarity": "rare",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "merge_1024": {
+    "id": "merge_1024",
+    "name": "1024大师",
+    "description": "合并出1024",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "🔢",
+    "rarity": "uncommon",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "merge_2048": {
+    "id": "merge_2048",
+    "name": "2048大师",
+    "description": "合并出2048",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "💎",
+    "rarity": "rare",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "merge_4096": {
+    "id": "merge_4096",
+    "name": "4096大师",
+    "description": "合并出4096",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "🌟",
+    "rarity": "epic",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "level_5": {
+    "id": "level_5",
+    "name": "初级玩家",
+    "description": "完成第5关",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "⭐",
+    "rarity": "common",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "level_10": {
+    "id": "level_10",
+    "name": "中级玩家",
+    "description": "完成第10关",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "⭐⭐",
+    "rarity": "uncommon",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "level_15": {
+    "id": "level_15",
+    "name": "高级玩家",
+    "description": "完成第15关",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "⭐⭐⭐",
+    "rarity": "rare",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "level_20": {
+    "id": "level_20",
+    "name": "终极大师",
+    "description": "完成第20关",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "👑",
+    "rarity": "legendary",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "combo_5": {
+    "id": "combo_5",
+    "name": "连击新手",
+    "description": "达成5连击",
+    "unlocked": true,
+    "unlocked_at": "2026-02-27T13:28:55.435312",
+    "icon": "🔥",
+    "rarity": "common",
+    "progress": 1.0,
+    "max_progress": 1.0
+  },
+  "combo_10": {
+    "id": "combo_10",
+    "name": "连击大师",
+    "description": "达成10连击",
+    "unlocked": true,
+    "unlocked_at": "2026-02-27T14:16:38.182526",
+    "icon": "💥",
+    "rarity": "rare",
+    "progress": 1.0,
+    "max_progress": 1.0
+  },
+  "perfect_game": {
+    "id": "perfect_game",
+    "name": "完美游戏",
+    "description": "不浪费任何移动完成关卡",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "✨",
+    "rarity": "epic",
+    "progress": 0.0,
+    "max_progress": 1.0
+  },
+  "speed_demon": {
+    "id": "speed_demon",
+    "name": "速度恶魔",
+    "description": "30秒内完成关卡",
+    "unlocked": true,
+    "unlocked_at": "2026-02-27T14:16:49.524002",
+    "icon": "⚡",
+    "rarity": "rare",
+    "progress": 1.0,
+    "max_progress": 1.0
+  },
+  "marathon": {
+    "id": "marathon",
+    "name": "马拉松",
+    "description": "连续完成10关",
+    "unlocked": false,
+    "unlocked_at": null,
+    "icon": "🏃",
+    "rarity": "epic",
+    "progress": 0.0,
+    "max_progress": 1.0
+  }
+}
