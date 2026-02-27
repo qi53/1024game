@@ -1,0 +1,9 @@
+{
+  "theme": "classic",
+  "music_volume": 70,
+  "sfx_volume": 80,
+  "fullscreen": false,
+  "show_hints": true,
+  "show_particles": true,
+  "animation_speed": "normal"
+}
